@@ -70,21 +70,10 @@ In essence, Klean is more than a project – it's a promise to enhance the way y
 
 
 
-### Health Bot -
-
-
-![health bot](https://github.com/20a31a0538/FRT-Project/assets/110081197/2bc290b2-b060-447e-8db8-c638c5de47e8)
-
-
-
-
-
-
 
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
