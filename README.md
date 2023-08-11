@@ -6,7 +6,7 @@ This is a web-based application providing professional cleaning services for bus
 ### This web-based KLearn application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 
-**Project Link** - 
+**Project Link** - https://orange-pebble-01d403600.3.azurestaticapps.net/Azurebot.html
 
 **Project Video Link** -  
 
@@ -14,11 +14,15 @@ This is a web-based application providing professional cleaning services for bus
 
 **Project Title** - Klean
 
-**Problem Statement/ Opportunity** - Amid the demands of modern life, maintaining a clean and hygienic environment often takes a backseat. We are introducing "Klean," our transformative project to tackle this challenge head-on by offering a comprehensive range of expert cleaning services.
+**Problem Statement/ Opportunity** - 
+
+Amid the demands of modern life, maintaining a clean and hygienic environment often takes a backseat. We are introducing "Klean," our transformative project to tackle this challenge head-on by offering a comprehensive range of expert cleaning services.
 
 Discover a new level of cleanliness with Klean's expert services. From apartment and home cleaning to kitchen rejuvenation, we tailor our meticulous touch to your space. Elevate your environment with our specialized offerings today.
 
-**Project Description** -  Amid the demands of modern life, maintaining a clean and hygienic environment often takes a backseat. We are introducing "Klean," our transformative project to tackle this challenge head-on by offering a comprehensive range of expert cleaning services.
+**Project Description** - 
+
+Amid the demands of modern life, maintaining a clean and hygienic environment often takes a backseat. We are introducing "Klean," our transformative project to tackle this challenge head-on by offering a comprehensive range of expert cleaning services.
 
 Klean addresses the diverse needs of our users by providing specialized services, including apartment cleaning, home cleaning, kitchen cleaning, and even office cleaning. Our platform is a one-stop solution, allowing users to customize their cleaning preferences and schedules with ease.
 
