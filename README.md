@@ -51,7 +51,7 @@ In essence, Klean is more than a project – it's a promise to enhance the way y
 
 ### Home - 
 
-![home](https://github.com/20a31a0538/frt_cleaning/assets/110081197/fcaa4112-2b19-481c-9e08-52e3e4c8167e)
+
 
 
 
