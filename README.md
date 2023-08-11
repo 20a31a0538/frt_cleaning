@@ -51,23 +51,23 @@ In essence, Klean is more than a project – it's a promise to enhance the way y
 
 ### Home - 
 
-![Home](https://github.com/20a31a0538/FRT-Project/assets/110081197/cedf6ae8-85ff-4c48-af90-d26ba77b7323)
+![home](https://github.com/20a31a0538/frt_cleaning/assets/110081197/fcaa4112-2b19-481c-9e08-52e3e4c8167e)
+
 
 
 ### About Us -
 
-![about us](https://github.com/20a31a0538/FRT-Project/assets/110081197/d3e94f0f-d1f1-403c-9caa-2f9ca017f0d8)
+![about](https://github.com/20a31a0538/frt_cleaning/assets/110081197/cb8dc2ee-a9f9-4c10-bc4d-743be94191db)
 
 ### Services -
 
-![service 1](https://github.com/20a31a0538/FRT-Project/assets/110081197/25f1602f-6985-4aae-8335-22a4790ae314)
+![service](https://github.com/20a31a0538/frt_cleaning/assets/110081197/28acae9d-5b5b-4460-b7fb-7f185cb5ee94)
 
-
-
-![service2](https://github.com/20a31a0538/FRT-Project/assets/110081197/70eb4c1e-dd15-4431-ae32-0cbcc6a47bfc)
 
 ### Contact Us -
-![contact us](https://github.com/20a31a0538/FRT-Project/assets/110081197/84c6544a-beca-4ffe-8ffc-71e8f479014f)
+
+![touch](https://github.com/20a31a0538/frt_cleaning/assets/110081197/8bf303ba-b6d4-4977-964a-6a01cd48cf12)
+
 
 
 ### Health Bot -
